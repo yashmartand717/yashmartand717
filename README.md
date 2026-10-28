@@ -19,6 +19,17 @@
 | [**Hindi Text Classifier**](https://github.com/yashmartand717/Cvproject-) | Deep-ensemble classifier (CNN + BiLSTM + IndicBERT) for Hindi text across 5 domains | PyTorch, Transformers, FastAPI |
 | [**Rush & Deliver**](https://github.com/yashmartand717/rush-deliver) | Browser-based 3D delivery game: pick up orders from cafés and race the clock | Three.js, WebGL |
 
+#### ✅ Completed (private)
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **ShortsBot** | End-to-end pipeline that turns a text script into an animated, voiced, subtitled YouTube Short and uploads it | Python, Llama 3 (Ollama) |
+| **Phage ImageNet** | Generates AI-ready genomic embeddings for bacteriophages and bacteria, searchable by vector similarity | Python, Supabase pgvector |
+| **Icon Automation** | Trains a LoRA image model to generate icons, with auto-captioning and icon-grid dataset prep | Python, LoRA, Streamlit |
+| **GyanBuddy Chatbot** | Student/teacher education chat backend that answers from a searchable textbook library | Python, LLMs, retrieval |
+| **GyanBuddy AI Insight** | Analyses student marks, previews per-student reports and sends them by email | Python, Django, Flutter |
+| **Fear Engine** | Reads fear in real time from your webcam (eye shock, gasps, brow tension) and streams it over OSC to an Unreal Engine horror AI | Python, MediaPipe, OpenCV, OSC |
+
 #### 🔒 In development (private)
 
 - **AI Proctored Exam**: online exam platform that blocks AI-assisted cheating. It splits each question and its options into separate GPU-rendered zones so a single photo can't capture both, and runs in-browser proctoring with head-pose, iris-gaze, multi-face and phone detection (MediaPipe). *Next.js, TypeScript*
