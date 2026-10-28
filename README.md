@@ -1,11 +1,10 @@
 ### Hi, I'm Yash Martand 👋
 
-**Python & AI developer** building practical tools: LLM-powered document processing, computer vision, and fast, deployable web apps.
+**Python & AI developer** building practical tools: AI-powered software and bio-computation.
 
 - 🧠 Currently working on AI pipelines that turn textbooks and PDFs into structured, searchable data
 - 🛠️ I like shipping small, useful tools that solve real workflow problems
-- 🏢 Building at **Mycelium Dynamics**
-- 📫 Reach me at **connect@myceliumdynamics.com**
+- 📫 Reach me at **yash717.m@gmail.com**
 
 ---
 
