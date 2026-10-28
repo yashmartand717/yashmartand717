@@ -2,8 +2,8 @@
 
 **Python & AI developer** building practical tools: AI-powered software and bio-computation.
 
-- 🧠 Currently working on AI for software and biology, from genomic embeddings for phage therapy to real-time biometric tracking
-- 🛠️ I like building end-to-end AI/CV tools that turn complex data, from DNA sequences to biometrics data, into something useful
+- 🧠 Currently working on AI for biology, from genomic embeddings for phage therapy to real-time biometric tracking
+- 🛠️ I like building end-to-end AI tools that turn complex data, from DNA sequences to documents, into something useful
 - 📫 Reach me at **yash717.m@gmail.com**
 
 ---
@@ -23,7 +23,7 @@
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **ShortsBot** | End-to-end pipeline that turns a text script into an animated, voiced, subtitled YouTube Short and uploads it | Python, Llama 3 (Ollama) |
-| **Phage ImageNet** | Generates AI-ready genomic embeddings for bacteriophages and bacteria, searchable by vector similarity | Python, Supabase pgvector |
+| **Phage ImageNet** | Pulls phage and bacterial genomes from NCBI, embeds them with the GENA-LM genomic model and finds the closest biological matches by vector similarity | PyTorch, Hugging Face, Biopython, Supabase pgvector |
 | **Icon Automation** | Trains a LoRA image model to generate icons, with auto-captioning and icon-grid dataset prep | Python, LoRA, Streamlit |
 | **GyanBuddy Chatbot** | Student/teacher education chat backend that answers from a searchable textbook library | Python, LLMs, retrieval |
 | **GyanBuddy AI Insight** | Analyses student marks, previews per-student reports and sends them by email | Python, Django, Flutter |
@@ -44,17 +44,30 @@
 
 #### 🛠️ Tech I work with
 
+**AI & ML**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat)
+
+**Bio-computation**
+
+![Biopython](https://img.shields.io/badge/Biopython-2E5C8A?style=flat)
+![GENA-LM](https://img.shields.io/badge/GENA--LM-6A1B9A?style=flat)
+![NCBI GenBank](https://img.shields.io/badge/NCBI_GenBank-20558A?style=flat)
+![Supabase pgvector](https://img.shields.io/badge/Supabase_pgvector-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
+**Apps & infrastructure**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
