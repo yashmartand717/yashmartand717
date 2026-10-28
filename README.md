@@ -2,8 +2,8 @@
 
 **Python & AI developer** building practical tools: AI-powered software and bio-computation.
 
-- 🧠 Currently working on AI pipelines that turn textbooks and PDFs into structured, searchable data
-- 🛠️ I like shipping small, useful tools that solve real workflow problems
+- 🧠 Currently working on AI for biology, from genomic embeddings for phage therapy to real-time biometric tracking
+- 🛠️ I like building end-to-end AI tools that turn complex data, from DNA sequences to documents, into something useful
 - 📫 Reach me at **yash717.m@gmail.com**
 
 ---
